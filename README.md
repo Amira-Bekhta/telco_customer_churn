@@ -42,9 +42,9 @@ The goal of this project is to understand churn and service usage patterns among
 
 ## Highlights ⚗️
 - **Most premium tech support subcribers have a low satisfaction score:** <br>
-![Picture](Visualizations\Percentage_high_low_subscribed.png)
+![Picture](\Visualizations\Percentage_high_low_subscribed.png)
 - **Most Telco customers download 15 to 30 GB monthly and pay 78 to 98 dollars** <br>
-![Picture](Visualizations\GB_vs_charge.png)
+![Picture](\Visualizations\GB_vs_charge.png)
 
 ## Model 🧠
 - **Classifier**: Gradient Boosting Classifier
