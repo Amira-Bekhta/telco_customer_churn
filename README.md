@@ -32,7 +32,7 @@ The goal of this project is to understand churn and service usage patterns among
 ## Installation 📦
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Amira-Bekhta/Spam_detector 
+   git clone https://github.com/Amira-Bekhta/telco_customer_churn
    ```
 
 2. Install the required libraries:
